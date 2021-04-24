@@ -1,0 +1,38 @@
+p,h1{
+    color: #ababab
+}
+/**{
+    border: dashed
+}
+
+*/
+
+/*
+0 - 00
+255 = FF
+*/
+
+.header{
+    background-color: rgb(108, 170, 209);
+    display: flex;
+    text-align:center;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h3{
+    text-align: center;
+}
+p,h1{
+    text-align: center;
+}
